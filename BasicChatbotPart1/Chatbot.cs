@@ -9,6 +9,8 @@ using System.Text;
 
 //Menu system implemented
 
+//Input validation and responses added
+
 namespace BasicChatbotPart1
 {
     internal class Chatbot
