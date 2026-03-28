@@ -10,6 +10,7 @@ using System.Text;
  * ASCII Everything. (2024). The Role of ASCII Art in Cybersecurity Awareness Campaigns. [online] Available at: https://asciieverything.com/ascii-blog/the-role-of-ascii-art-in-cybersecurity-awareness-campaigns/ [Accessed 28 Mar. 2026].ub
 */
 
+//ASCII logo and UI design added
 namespace BasicChatbotPart1
 {
     internal class UIHelper
