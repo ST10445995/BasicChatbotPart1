@@ -7,7 +7,6 @@ using System.Media;
 */
 
 // test change
-
 internal class Program
 {
     private static void Main(string[] args)
