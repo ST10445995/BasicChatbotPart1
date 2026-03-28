@@ -11,6 +11,8 @@ using System.Text;
 
 //Input validation and responses added
 
+//Final improvements and cleanup
+
 namespace BasicChatbotPart1
 {
     internal class Chatbot
